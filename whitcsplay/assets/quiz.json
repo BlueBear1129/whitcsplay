@@ -1,0 +1,71 @@
+{
+  "bank": [
+    {
+      "prompt": "Correct way to declare a variable of type integer",
+      "options": 
+        {
+          "number a: ": false,
+          "int b; ": true,
+          "int b:": false,
+          "number a": false       
+        }
+
+    },
+    {
+      "prompt": "Which is the correct Syntax.",
+      "options": 
+        {
+          "number b = 0;": false,
+          "int a = 0.356; ": false,
+          "int a = 0 +4; ": true,
+          "int a = 0+ b": false       
+        }
+
+    },
+    {
+      "prompt": "What is the correct way of Appending Strings",
+      "options": 
+        {
+          "string a = \"He\" + \"llo\"": true,
+          "string a = \"He\" plus \"llo\"": false,
+          "string a = \"He\" // \"llo\"": false,
+          "No correct Option": false
+             
+        }
+
+    },
+    {
+      "prompt": "What is not true about C++",
+      "options": 
+        {
+          "It has object oriented features": false,
+          "Compiles on different platforms": false,
+          "Very Popular": false,
+          "Widely used in web-development": true
+        }
+
+    },
+    {
+      "Prompt": "How to initialize a string in C++",
+      "options": 
+        {
+          "str word = `hello`;": false,
+          "string word = \"hello\"": true,
+          "word letter = 123": false,
+          "string word = 456;": false
+        
+        }
+    },
+    {
+      "Prompt": "How to initialize a string in C++",
+      "options": 
+        {
+          "str word = `hello`;": false,
+          "string word = \"hello\"": true,
+          "word letter = 123": false,
+          "string word = 456;": false
+        }
+    }
+
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "992322373662",
+    "project_id": "csplayground-9374c",
+    "storage_bucket": "csplayground-9374c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992322373662:android:5ef83b9a6f50e7ce93060f",
+        "android_client_info": {
+          "package_name": "WhitCSPlay.org.whitcsplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992322373662-sr4998kn159s2j2uum85as67s9njt41h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt3UYGvhKaBNUtFm1d_zxSUd7PLB43lo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992322373662-sr4998kn159s2j2uum85as67s9njt41h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "992322373662-mcobeucgt0q7rm1sic4bvbh4394e9par.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "WhitCSPlay.org.whitcsplay"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

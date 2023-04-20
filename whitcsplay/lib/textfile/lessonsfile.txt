@@ -1,0 +1,32 @@
+Introduction to Programming  C++ ( Text Book)
+
+What is a Computer ? 
+A computer includes hardware and software.  
+The hardware  comprises of the visible, physical elements of the computer. Software provides the invisible instructions that control the hardware and make it perform specific task.
+
+Hardware 
+Hardware components help us understand the effects that a program’s instructions have on a computer. 
+
+Major computer hardware:
+Central processing Unit (CPU) 
+Memory
+Storage devices
+Input devices ( mouse and keyboard)
+Output devices (monitors and printers)
+Communication devices  (modems) 
+
+Software 
+Computer do not understand human language so programs must be written in languages computers understand. 
+
+Operating Systems :
+The operating systems( OS) is the most important program that runs on the computer. The OS manages and controls a computer’s activities. 
+
+Computers have 3 different languages
+
+Machine Learning: inbuilt language of 1101101010011010
+
+Assembly Language : This language uses short descriptive words to represent each of the machine learning instructions. For example add means to add two numbers. 
+The assembler is used to translate machine learning code. 
+
+High-Level Language 
+High-level language are programming languages designed for a specific purpose and can run on any computer. It needs a compiler to run on computers.

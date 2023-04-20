@@ -1,0 +1,22 @@
+What is C++ ? 
+
+
+C++ is a general-purpose , object-oriented programming language.
+
+C++ is executed from the main function.
+
+Writing a program involves designing a strategy for solving a problem and then using a programming language to implement that strategy. 
+
+Your first code
+
+#include <iostream>
+Using namespace std;
+
+Int main()
+{ 
+      // Display Hello  World to the  C++ console 
+
+       cout<< “Hello World” <<endl;
+
+       return 0;
+}
